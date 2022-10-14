@@ -25,12 +25,12 @@
   5.
   
 - Pyraminx (Can solve using the [R U' R' / L' U L], [R' U' R U' R' U' R] and the [L U R U' R' L'] algorithims)
-  + Ao5
-  1.
-  2.
-  3.
-  4.
-  5.
+  + Ao5 (43.93 seconds - Achieved on 10/14/2022)
+  1. 39.11
+  2. (36.47) - PB
+  3. 41.72
+  4. (1:02.49)
+  5. 50.97
   
   + Ao12
   1.
