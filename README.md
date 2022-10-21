@@ -7,6 +7,11 @@
   + Ao12
   + Ao25
 
+- 2x2 (Using JPerm's beginner's method to solve)
+  + Ao5 (1:54.92 minutes - Achieved on 10/20/2022 [VALIDATED])
+  + Ao12 (1:26.36 minutes - Achieved on 10/20/2022 [VALIDATED])
+  + Ao25 (1:24.26 minutes - Achieved on 10/20/2022 [VALIDATED])
+
 - Pyraminx (Using Noah Richardson's method from his tutorial to solve it, but instead I have taken 3 algorithims from the tutorial to solve the pyraminx)
   + Ao5 (43.93 seconds - Achieved on 10/14/2022 [VALIDATED])
   + Ao12 (38.30 seconds - Achieved on 10/17/2022 [VALIDATED])
